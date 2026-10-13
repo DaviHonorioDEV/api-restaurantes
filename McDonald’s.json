@@ -1,0 +1,1647 @@
+[
+    {
+        "nome": "Hamburger",
+        "price": 32.42,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Cheeseburger",
+        "price": 38.81,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Double Cheeseburger",
+        "price": 50.18,
+        "description": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "nome": "McDouble",
+        "price": 55.73,
+        "description": "Uma opção saudável e satisfatória."
+    },
+    {
+        "nome": " Quarter Pounder® with Cheese",
+        "price": 57.48,
+        "description": "Uma opção deliciosa e reconfortante."
+    },
+    {
+        "nome": "Double Quarter Pounder® with Cheese",
+        "price": 48.59,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Big Mac®",
+        "price": 45.34,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Big N’ Tasty®",
+        "price": 35.05,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Big N’ Tasty® with Cheese",
+        "price": 56.26,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Angus Bacon & Cheese",
+        "price": 44.32,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Angus Deluxe",
+        "price": 50.18,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Angus Mushroom & Swiss",
+        "price": 34.91,
+        "description": "Uma combinação única de sabores e texturas."
+    },
+    {
+        "nome": "Filet-O-Fish®",
+        "price": 47.46,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "McChicken ®",
+        "price": 42.44,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "McRib ®",
+        "price": 36.22,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Premium Grilled Chicken Classic Sandwich",
+        "price": 55.95,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Premium Crispy Chicken Classic Sandwich",
+        "price": 34.22,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Premium Grilled Chicken Club Sandwich",
+        "price": 39.01,
+        "description": "Uma deliciosa refeição para toda a família."
+    },
+    {
+        "nome": "Premium Crispy Chicken Club Sandwich",
+        "price": 43.48,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Premium Grilled Chicken Ranch BLT Sandwich",
+        "price": 30.25,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Premium Crispy Chicken Ranch BLT Sandwich",
+        "price": 38.44,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Southern Style Crispy Chicken Sandwich",
+        "price": 35.01,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Ranch Snack Wrap® (Crispy)",
+        "price": 30.67,
+        "description": "Uma mistura de doçura e crocância."
+    },
+    {
+        "nome": "Ranch Snack Wrap® (Grilled)",
+        "price": 48.33,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Honey Mustard Snack Wrap® (Crispy)",
+        "price": 56.33,
+        "description": "Incrivelmente saboroso e satisfatório."
+    },
+    {
+        "nome": "Honey Mustard Snack Wrap® (Grilled)",
+        "price": 55.05,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Chipotle BBQ Snack Wrap® (Crispy)",
+        "price": 30.08,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "Chipotle BBQ Snack Wrap® (Grilled)",
+        "price": 54.4,
+        "description": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "nome": "Angus Bacon & Cheese Snack Wrap",
+        "price": 35.34,
+        "description": "Um clássico que nunca sai de moda."
+    },
+    {
+        "nome": "Angus Chipotle BBQ Bacon",
+        "price": 50.45,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Angus Chipotle BBQ Bacon Snack Wrap",
+        "price": 42.7,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Angus Deluxe Snack Wrap",
+        "price": 49.04,
+        "description": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "nome": "Angus Mushroom & Swiss Snack Wrap",
+        "price": 53.47,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Mac Snack Wrap",
+        "price": 44.47,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Small French Fries",
+        "price": 58.5,
+        "description": "Um clássico que nunca sai de moda."
+    },
+    {
+        "nome": "Medium French Fries",
+        "price": 40.29,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Large French Fries",
+        "price": 45.9,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Ketchup Packet",
+        "price": 47.02,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "Salt Packet",
+        "price": 55.61,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Chicken McNuggets® (4 piece)",
+        "price": 43.95,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "Chicken McNuggets® (6 piece)",
+        "price": 38.22,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Chicken McNuggets® (10 piece)",
+        "price": 58.63,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Barbeque Sauce",
+        "price": 31.21,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Honey",
+        "price": 40.35,
+        "description": "O acompanhamento perfeito para qualquer refeição."
+    },
+    {
+        "nome": "Hot Mustard Sauce",
+        "price": 54.49,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Sweet ‘N Sour Sauce",
+        "price": 35.69,
+        "description": "O acompanhamento perfeito para qualquer refeição."
+    },
+    {
+        "nome": "Chicken Selects® Premium Breast Strips (3 pc)",
+        "price": 33.69,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Chicken Selects® Premium Breast Strips (5 pc)",
+        "price": 53.14,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "Spicy Buffalo Sauce",
+        "price": 35.12,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Creamy Ranch Sauce",
+        "price": 40.21,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Tangy Honey Mustard Sauce",
+        "price": 39.03,
+        "description": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "nome": "Southwestern Chipotle Barbeque Sauce",
+        "price": 41.95,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Premium Southwest Salad with Grilled Chicken",
+        "price": 56.48,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Premium Southwest Salad with Crispy Chicken",
+        "price": 51.78,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Premium Southwest Salad (without chicken)",
+        "price": 38.57,
+        "description": "A escolha perfeita para um dia especial."
+    },
+    {
+        "nome": "Premium Bacon Ranch Salad with Grilled Chicken",
+        "price": 41.41,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Premium Bacon Ranch Salad with Crispy Chicken",
+        "price": 59.86,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Premium Bacon Ranch Salad (without chicken)",
+        "price": 49.86,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Premium Caesar Salad with Grilled Chicken",
+        "price": 41.09,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Premium Caesar Salad with Crispy Chicken",
+        "price": 54.21,
+        "description": "Uma opção deliciosa e reconfortante."
+    },
+    {
+        "nome": "Premium Caesar Salad (without chicken)",
+        "price": 45.24,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Side Salad",
+        "price": 55.75,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Butter Garlic Croutons",
+        "price": 46.93,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Snack Size Fruit & Walnut Salad",
+        "price": 59.64,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Salad Dressings",
+        "price": 30.99,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Newman’s Own® Creamy Southwest Dressing",
+        "price": 33.12,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Newman’s Own® Creamy Caesar Dressing",
+        "price": 40.86,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Newman’s Own® Low Fat Balsamic Vinaigrette",
+        "price": 36.37,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Newman’s Own® Low Fat Family Recipe Italian Dressing",
+        "price": 56.2,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Newman’s Own® Ranch Dressing",
+        "price": 30.57,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Egg McMuffin®",
+        "price": 40.93,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Sausage McMuffin®",
+        "price": 31.2,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Sausage McMuffin® with Egg",
+        "price": 36.09,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "English Muffin",
+        "price": 39.79,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",
+        "price": 44.31,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",
+        "price": 55.88,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Sausage Biscuit with Egg (Regular Size Biscuit)",
+        "price": 43.94,
+        "description": "Para os amantes de café e cappuccinos."
+    },
+    {
+        "nome": "Sausage Biscuit with Egg (Large Size Biscuit)",
+        "price": 45.63,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Sausage Biscuit (Regular Size Biscuit)",
+        "price": 34.89,
+        "description": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "nome": "Sausage Biscuit (Large Size Biscuit)",
+        "price": 32.29,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Southern Style Chicken Biscuit (Regular Size Biscuit)",
+        "price": 52.48,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Southern Style Chicken Biscuit (Large Size Biscuit)",
+        "price": 35.25,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Steak, Egg & Cheese Bagel",
+        "price": 30.77,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Bacon, Egg & Cheese McGriddles®",
+        "price": 49.43,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Sausage, Egg & Cheese McGriddles®",
+        "price": 41.9,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Sausage McGriddles®",
+        "price": 48.08,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Big Breakfast® (Regular Size Biscuit)",
+        "price": 45.42,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Big Breakfast® (Large Size Biscuit)",
+        "price": 47.83,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Big Breakfast with Hotcakes (Regular Size Biscuit)",
+        "price": 48.75,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Big Breakfast with Hotcakes (Large Size Biscuit)",
+        "price": 48.98,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Sausage Burrito",
+        "price": 33.8,
+        "description": "Uma bebida irresistível e refrescante."
+    },
+    {
+        "nome": "McSkillet™ Burrito with Sausage",
+        "price": 38.07,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Hotcakes",
+        "price": 55.2,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Hotcakes and Sausage",
+        "price": 37.69,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Hotcake Syrup",
+        "price": 40.5,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Whipped Margarine (1 pat)",
+        "price": 34.94,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Hash Brown",
+        "price": 35.97,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Grape Jam",
+        "price": 43.35,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Strawberry Preserves",
+        "price": 42.21,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Bacon, Egg & Cheese Bagel",
+        "price": 48.74,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Fruit & Maple Oatmeal",
+        "price": 37.85,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Fruit & Maple Oatmeal without Brown Sugar",
+        "price": 48.17,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "Hamburger Happy Meal",
+        "price": 59.03,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "4 Piece Chicken McNuggets Happy Meal",
+        "price": 50.17,
+        "description": "Uma opção deliciosa e satisfatória."
+    },
+    {
+        "nome": "6 Piece Chicken McNuggets® Happy Meal",
+        "price": 57.05,
+        "description": "Leve e delicioso, ótimo para compartilhar."
+    },
+    {
+        "nome": "Fruit ‘n Yogurt Parfait (7 oz)",
+        "price": 51.63,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Low Fat Caramel Dip",
+        "price": 57.2,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Vanilla Reduced Fat Ice Cream Cone",
+        "price": 57.9,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Kiddie Cone",
+        "price": 40.88,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Strawberry Sundae",
+        "price": 48.68,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Hot Caramel Sundae",
+        "price": 58.61,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Hot Fudge Sundae",
+        "price": 39.56,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Peanuts (for Sundaes)",
+        "price": 36.5,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "McFlurry® with M&M’S® Candies (12 fl oz cup)",
+        "price": 30.14,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "McFlurry® with OREO® Cookies (12 fl oz cup)",
+        "price": 54.66,
+        "description": "Uma mistura de doçura e crocância."
+    },
+    {
+        "nome": "Baked Hot Apple Pie",
+        "price": 31.24,
+        "description": "A escolha saudável para um dia agitado."
+    },
+    {
+        "nome": "Cinnamon Melts",
+        "price": 42.54,
+        "description": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "nome": "McDonaldland® Cookies",
+        "price": 31.22,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Chocolate Chip Cookie",
+        "price": 34.5,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Oatmeal Raisin Cookie",
+        "price": 59.51,
+        "description": "O acompanhamento perfeito para qualquer refeição."
+    },
+    {
+        "nome": "Sugar Cookie",
+        "price": 55.25,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Apple Dippers with Low Fat Caramel Dip",
+        "price": 55.7,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Chocolate McCafé® Shake (12 fl oz cup)",
+        "price": 46.44,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Chocolate McCafé® Shake (16 fl oz cup)",
+        "price": 54.04,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Chocolate McCafé® Shake (22 fl oz cup)",
+        "price": 58.07,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Chocolate Triple Thick® Shake (12 fl oz cup)",
+        "price": 32.35,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Chocolate Triple Thick® Shake (16 fl oz cup)",
+        "price": 32.38,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Chocolate Triple Thick® Shake (21 fl oz cup)",
+        "price": 43.69,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Chocolate Triple Thick® Shake (32 fl oz cup)",
+        "price": 55.99,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Snack Size McFlurry® with M&M’S® Candies",
+        "price": 56.9,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Snack Size McFlurry® with OREO® Cookies",
+        "price": 34.09,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Strawberry McCafé® Shake (12 fl oz cup)",
+        "price": 53.76,
+        "description": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "nome": "Strawberry McCafé® Shake (16 fl oz cup)",
+        "price": 47.24,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Strawberry McCafé® Shake (22 fl oz cup)",
+        "price": 38.54,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Strawberry Triple Thick® Shake (12 fl oz cup)",
+        "price": 49.13,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Strawberry Triple Thick® Shake (16 fl oz cup)",
+        "price": 41.04,
+        "description": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "nome": "Strawberry Triple Thick® Shake (21 fl oz cup)",
+        "price": 45.0,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Strawberry Triple Thick® Shake (32 fl oz cup)",
+        "price": 35.85,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Vanilla McCafé® Shake (12 fl oz cup)",
+        "price": 49.12,
+        "description": "A escolha saudável para um dia agitado."
+    },
+    {
+        "nome": "Vanilla McCafé® Shake (16 fl oz cup)",
+        "price": 38.8,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Vanilla McCafé® Shake (22 fl oz cup)",
+        "price": 37.09,
+        "description": "Uma escolha saudável e deliciosa."
+    },
+    {
+        "nome": "Vanilla Triple Thick Shake® (32 fl oz cup)",
+        "price": 58.62,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Vanilla Triple Thick® Shake (12 fl oz cup)",
+        "price": 47.3,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Vanilla Triple Thick® Shake (16 fl oz cup)",
+        "price": 45.31,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Vanilla Triple Thick® Shake (21 fl oz cup)",
+        "price": 53.04,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "1% Low Fat Milk Jug",
+        "price": 54.66,
+        "description": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "nome": "1% Low Fat Chocolate Milk Jug",
+        "price": 49.74,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Minute Maid® 100% Apple Juice Box",
+        "price": 47.74,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Dasani® Water",
+        "price": 43.05,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Minute Maid® Orange Juice (Small)",
+        "price": 40.6,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Minute Maid® Orange Juice (Medium)",
+        "price": 31.2,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Minute Maid® Orange Juice (Large)",
+        "price": 47.3,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Coca-Cola® Classic (Child)",
+        "price": 32.12,
+        "description": "Uma deliciosa refeição para toda a família."
+    },
+    {
+        "nome": "Coca-Cola® Classic (Small)",
+        "price": 47.68,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Coca-Cola® Classic (Medium)",
+        "price": 56.6,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Coca-Cola® Classic (Large)",
+        "price": 49.53,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Diet Coke® (Child)",
+        "price": 42.76,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Diet Coke® (Small)",
+        "price": 38.83,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Diet Coke® (Medium)",
+        "price": 52.85,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Diet Coke® (Large)",
+        "price": 35.59,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Sprite® (Child)",
+        "price": 59.38,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "Sprite® (Small)",
+        "price": 47.29,
+        "description": "Uma mistura de doçura e crocância."
+    },
+    {
+        "nome": "Sprite® (Medium)",
+        "price": 52.31,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Sprite® (Large)",
+        "price": 34.05,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Hi-C® Orange Lavaburst (Child)",
+        "price": 55.6,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Hi-C® Orange Lavaburst (Small)",
+        "price": 57.45,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Hi-C® Orange Lavaburst (Medium)",
+        "price": 57.23,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Hi-C® Orange Lavaburst (Large)",
+        "price": 35.26,
+        "description": "Sabor exótico que você vai adorar."
+    },
+    {
+        "nome": "POWERade® Mountain Blast (Child)",
+        "price": 47.53,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "POWERade® Mountain Blast (Small)",
+        "price": 45.83,
+        "description": "Uma opção saudável e satisfatória."
+    },
+    {
+        "nome": "POWERade® Mountain Blast (Medium)",
+        "price": 46.56,
+        "description": "Para os amantes de café e cappuccinos."
+    },
+    {
+        "nome": "POWERade® Mountain Blast (Large)",
+        "price": 44.78,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Iced Tea (Child)",
+        "price": 30.22,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Iced Tea (Small)",
+        "price": 56.25,
+        "description": "Deliciosos molhos para realçar seu prato."
+    },
+    {
+        "nome": "Iced Tea (Medium)",
+        "price": 30.62,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Iced Tea (Large)",
+        "price": 51.06,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Coffee (Small)",
+        "price": 50.86,
+        "description": "A escolha saudável para um dia agitado."
+    },
+    {
+        "nome": "Coffee (Large)",
+        "price": 51.66,
+        "description": "A escolha perfeita para um dia especial."
+    },
+    {
+        "nome": "Coffee Cream",
+        "price": 39.25,
+        "description": "Uma deliciosa refeição para toda a família."
+    },
+    {
+        "nome": "Sugar Packet",
+        "price": 42.61,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "EQUAL® 0\nCalorie Sweetener",
+        "price": 55.77,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "SPLENDA® No\nCalorie Sweetener",
+        "price": 39.37,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Iced Coffee– Caramel (Small)",
+        "price": 54.69,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Iced Coffee– Caramel (Medium)",
+        "price": 49.06,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Iced Coffee– Caramel (Large)",
+        "price": 37.17,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Iced Coffee– Hazelnut (Small)",
+        "price": 54.0,
+        "description": "Sabores únicos que vão surpreender você."
+    },
+    {
+        "nome": "Iced Coffee– Hazelnut (Medium)",
+        "price": 59.87,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Iced Coffee– Hazelnut (Large)",
+        "price": 50.21,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Iced Coffee– Regular (Small)",
+        "price": 43.23,
+        "description": "Uma opção saudável e satisfatória."
+    },
+    {
+        "nome": "Iced Coffee– Regular (Medium)",
+        "price": 48.91,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Iced Coffee– Regular (Large)",
+        "price": 52.18,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Iced Coffee– Vanilla (Small)",
+        "price": 59.08,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Iced Coffee– Vanilla (Medium)",
+        "price": 51.26,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Iced Coffee– Vanilla (Large)",
+        "price": 44.27,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Iced Coffee with Sugar Free Vanilla Syrup (Small)",
+        "price": 31.99,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Iced Coffee with Sugar Free Vanilla Syrup (Medium)",
+        "price": 46.17,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Iced Coffee with Sugar Free Vanilla Syrup (Large)",
+        "price": 59.06,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Sweet Tea (Child)",
+        "price": 33.61,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Sweet Tea (Large)",
+        "price": 38.48,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Sweet Tea (Medium)",
+        "price": 39.57,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Sweet Tea (Small)",
+        "price": 31.11,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Nonfat Cappuccino (Small)",
+        "price": 42.91,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Nonfat Cappuccino (Medium)",
+        "price": 53.23,
+        "description": "Um clássico que nunca sai de moda."
+    },
+    {
+        "nome": "Nonfat Cappuccino (Large)",
+        "price": 49.1,
+        "description": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "nome": "Nonfat Latte (Small)",
+        "price": 45.4,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Nonfat Latte (Medium)",
+        "price": 39.2,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Nonfat Latte (Large)",
+        "price": 42.61,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Nonfat Caramel Cappuccino (Small)",
+        "price": 55.68,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Nonfat Caramel Cappuccino (Medium)",
+        "price": 44.74,
+        "description": "Para os amantes de comida caseira."
+    },
+    {
+        "nome": "Nonfat Caramel Cappuccino (Large)",
+        "price": 52.21,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Nonfat Caramel Latte (Small)",
+        "price": 34.97,
+        "description": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "nome": "Nonfat Caramel Latte (Medium)",
+        "price": 37.55,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Nonfat Caramel Latte (Large)",
+        "price": 45.97,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Nonfat Hazelnut Cappuccino (Small)",
+        "price": 42.89,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Nonfat Hazelnut Cappuccino (Medium)",
+        "price": 54.83,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Nonfat Hazelnut Cappuccino (Large)",
+        "price": 56.28,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Nonfat Hazelnut Latte (Small)",
+        "price": 39.33,
+        "description": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "nome": "Nonfat Hazelnut Latte (Medium)",
+        "price": 54.13,
+        "description": "Para os amantes de café e cappuccinos."
+    },
+    {
+        "nome": "Nonfat Hazelnut Latte (Large)",
+        "price": 46.37,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Nonfat Vanilla Cappuccino (Small)",
+        "price": 47.28,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Nonfat Vanilla Cappuccino (Medium)",
+        "price": 52.55,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Nonfat Vanilla Cappuccino (Large)",
+        "price": 35.74,
+        "description": "Uma mistura de doçura e crocância."
+    },
+    {
+        "nome": "Nonfat Vanilla Latte (Small)",
+        "price": 40.86,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Nonfat Vanilla Latte (Medium)",
+        "price": 53.55,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Nonfat Vanilla Latte (Large)",
+        "price": 58.35,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Small)",
+        "price": 42.38,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Medium)",
+        "price": 47.98,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Nonfat Cappuccino with Sugar Free Vanilla Syrup (Large)",
+        "price": 30.09,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Nonfat Latte with Sugar Free Vanilla Syrup (Small)",
+        "price": 47.3,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Nonfat Latte with Sugar Free Vanilla Syrup (Medium)",
+        "price": 48.33,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Nonfat Latte with Sugar Free Vanilla Syrup (Large)",
+        "price": 57.63,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "Mocha with Nonfat Milk (Small)",
+        "price": 54.67,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Mocha with Nonfat Milk (Medium)",
+        "price": 56.72,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Mocha with Nonfat Milk (Large)",
+        "price": 56.05,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Hot Chocolate with Nonfat Milk (Small)",
+        "price": 48.52,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Hot Chocolate with Nonfat Milk (Medium)",
+        "price": 56.76,
+        "description": "Para os amantes de café e cappuccinos."
+    },
+    {
+        "nome": "Hot Chocolate with Nonfat Milk (Large)",
+        "price": 42.93,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Iced Nonfat Latte (Small)",
+        "price": 33.66,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Iced Nonfat Latte (Medium)",
+        "price": 35.99,
+        "description": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "nome": "Iced Nonfat Latte (Large)",
+        "price": 51.49,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Iced Nonfat Caramel Latte (Small)",
+        "price": 47.04,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Iced Nonfat Caramel Latte (Medium)",
+        "price": 34.25,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Iced Nonfat Caramel Latte (Large)",
+        "price": 56.52,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Iced Nonfat Hazelnut Latte (Small)",
+        "price": 40.85,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Iced Nonfat Hazelnut Latte (Medium)",
+        "price": 43.39,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Iced Nonfat Hazelnut Latte (Large)",
+        "price": 41.73,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Iced Nonfat Vanilla Latte (Small)",
+        "price": 42.04,
+        "description": "Sinta o sabor da natureza em cada mordida."
+    },
+    {
+        "nome": "Iced Nonfat Vanilla Latte (Medium)",
+        "price": 58.91,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Iced Nonfat Vanilla Latte (Large)",
+        "price": 52.66,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small)",
+        "price": 58.96,
+        "description": "Leve e delicioso, ótimo para compartilhar."
+    },
+    {
+        "nome": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium)",
+        "price": 32.58,
+        "description": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "nome": "Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large)",
+        "price": 37.82,
+        "description": "A combinação perfeita de doçura e frutas."
+    },
+    {
+        "nome": "Iced Mocha with Nonfat Milk (Medium)",
+        "price": 47.43,
+        "description": "Leve e delicioso, ótimo para compartilhar."
+    },
+    {
+        "nome": "Iced Nonfat Caramel Mocha (Large)",
+        "price": 37.34,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Iced Nonfat Caramel Mocha (Medium)",
+        "price": 34.0,
+        "description": "Uma opção refrescante e saudável."
+    },
+    {
+        "nome": "Iced Nonfat Caramel Mocha (Small)",
+        "price": 54.77,
+        "description": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "nome": "Nonfat Caramel Mocha (Large)",
+        "price": 35.23,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Nonfat Caramel Mocha (Medium)",
+        "price": 40.35,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Nonfat Caramel Mocha (Small)",
+        "price": 37.55,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Cappuccino (Small)",
+        "price": 48.72,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Cappuccino (Medium)",
+        "price": 48.59,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Cappuccino (Large)",
+        "price": 33.93,
+        "description": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "nome": "Latte (Small) ",
+        "price": 32.26,
+        "description": "Sabores tradicionais que nunca desapontam."
+    },
+    {
+        "nome": "Latte (Medium)",
+        "price": 50.03,
+        "description": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "nome": "Latte (Large)",
+        "price": 56.25,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Caramel Cappuccino (Small)",
+        "price": 34.75,
+        "description": "Uma mistura de doçura e crocância."
+    },
+    {
+        "nome": "Caramel Cappuccino (Medium)",
+        "price": 37.94,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Caramel Cappuccino (Large)",
+        "price": 44.85,
+        "description": "Um clássico que nunca sai de moda."
+    },
+    {
+        "nome": "Caramel Latte (Small)",
+        "price": 32.54,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Caramel Latte (Medium)",
+        "price": 58.91,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Caramel Latte (Large)",
+        "price": 44.05,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Hazelnut Cappuccino (Small)",
+        "price": 58.77,
+        "description": "Uma bebida gelada e revigorante."
+    },
+    {
+        "nome": "Hazelnut Cappuccino (Medium)",
+        "price": 41.18,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Hazelnut Cappuccino (Large)",
+        "price": 53.36,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Hazelnut Latte (Small)",
+        "price": 42.04,
+        "description": "Uma mistura de doçura e crocância."
+    },
+    {
+        "nome": "Hazelnut Latte (Medium)",
+        "price": 54.16,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Hazelnut Latte (Large)",
+        "price": 31.39,
+        "description": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "nome": "Vanilla Cappuccino (Small)",
+        "price": 58.36,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Vanilla Cappuccino (Medium)",
+        "price": 39.25,
+        "description": "A escolha perfeita para um dia especial."
+    },
+    {
+        "nome": "Vanilla Cappuccino (Large)",
+        "price": 41.38,
+        "description": "A escolha saudável para um dia agitado."
+    },
+    {
+        "nome": "Vanilla Latte (Small)",
+        "price": 50.65,
+        "description": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "nome": "Vanilla Latte (Medium)",
+        "price": 34.42,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Vanilla Latte (Large)",
+        "price": 32.36,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Cappuccino with Sugar Free Vanilla Syrup (Small)",
+        "price": 44.28,
+        "description": "A escolha ideal para ocasiões especiais."
+    },
+    {
+        "nome": "Cappuccino with Sugar Free Vanilla Syrup (Medium)",
+        "price": 32.78,
+        "description": "Uma deliciosa refeição para toda a família."
+    },
+    {
+        "nome": "Cappuccino with Sugar Free Vanilla Syrup (Large)",
+        "price": 58.81,
+        "description": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "nome": "Latte with Sugar Free Vanilla Syrup (Small)",
+        "price": 37.33,
+        "description": "Incrivelmente saboroso e satisfatório."
+    },
+    {
+        "nome": "Latte with Sugar Free Vanilla Syrup (Medium)",
+        "price": 56.32,
+        "description": "Para os amantes de bebidas geladas."
+    },
+    {
+        "nome": "Latte with Sugar Free Vanilla Syrup (Large)",
+        "price": 33.46,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Mocha (Small)",
+        "price": 57.28,
+        "description": "Sabor autêntico e suculento."
+    },
+    {
+        "nome": "Mocha (Medium)",
+        "price": 32.65,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Mocha (Large)",
+        "price": 59.06,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Hot Chocolate (Small)",
+        "price": 59.49,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Hot Chocolate (Medium)",
+        "price": 33.98,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Hot Chocolate (Large)",
+        "price": 32.54,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Iced Latte (Small)",
+        "price": 48.64,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Iced Latte (Medium)",
+        "price": 31.54,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Iced Latte (Large)",
+        "price": 55.54,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Iced Caramel Latte (Small)",
+        "price": 34.57,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Iced Caramel Latte (Medium)",
+        "price": 52.96,
+        "description": "Sabor autêntico com ingredientes frescos."
+    },
+    {
+        "nome": "Iced Caramel Latte (Large)",
+        "price": 57.35,
+        "description": "Molhos deliciosos para realçar seus pratos."
+    },
+    {
+        "nome": "Iced Hazelnut Latte (Small)",
+        "price": 52.4,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Iced Hazelnut Latte (Medium)",
+        "price": 56.17,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Iced Hazelnut Latte (Large)",
+        "price": 40.87,
+        "description": "Uma combinação perfeita de sabores e texturas."
+    },
+    {
+        "nome": "Iced Vanilla Latte (Small)",
+        "price": 57.96,
+        "description": "Sinta o sabor do verão a cada gole."
+    },
+    {
+        "nome": "Iced Vanilla Latte (Medium)",
+        "price": 30.13,
+        "description": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "nome": "Iced Vanilla Latte (Large)",
+        "price": 36.63,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Iced Latte with Sugar Free Vanilla Syrup (Small)",
+        "price": 56.76,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Iced Latte with Sugar Free Vanilla Syrup (Medium)",
+        "price": 34.67,
+        "description": "Uma combinação única de sabores e texturas."
+    },
+    {
+        "nome": "Iced Latte with Sugar Free Vanilla Syrup (Large)",
+        "price": 59.1,
+        "description": "Uma opção saudável e equilibrada."
+    },
+    {
+        "nome": "Iced Mocha (Medium)",
+        "price": 48.04,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Caramel Mocha (Large)",
+        "price": 52.43,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Caramel Mocha (Medium)",
+        "price": 58.04,
+        "description": "Sabores autênticos que aquecem o coração."
+    },
+    {
+        "nome": "Caramel Mocha (Small)",
+        "price": 51.28,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Iced Caramel Mocha (Large)",
+        "price": 46.29,
+        "description": "Uma opção deliciosa e acolhedora."
+    },
+    {
+        "nome": "Iced Caramel Mocha (Medium)",
+        "price": 41.26,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Iced Caramel Mocha (Small)",
+        "price": 37.5,
+        "description": "Uma opção deliciosa e satisfatória."
+    },
+    {
+        "nome": "Frappe Caramel (Small)",
+        "price": 59.5,
+        "description": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "nome": "Frappe Caramel (Medium)",
+        "price": 51.32,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Frappe Caramel (Large)",
+        "price": 46.29,
+        "description": "O acompanhamento perfeito para qualquer refeição."
+    },
+    {
+        "nome": "Frappe Mocha (Small)",
+        "price": 57.95,
+        "description": "Deliciosos molhos para realçar seu prato."
+    },
+    {
+        "nome": "Frappe Mocha (Medium)",
+        "price": 51.08,
+        "description": "Uma explosão de sabores em cada mordida."
+    },
+    {
+        "nome": "Frappe Mocha (Large)",
+        "price": 49.15,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Strawberry Banana Smoothie (Large)",
+        "price": 47.23,
+        "description": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "nome": "Strawberry Banana Smoothie (Medium)",
+        "price": 39.63,
+        "description": "Uma experiência refrescante e doce."
+    },
+    {
+        "nome": "Strawberry Banana Smoothie (Small)",
+        "price": 39.79,
+        "description": "Uma explosão de sabores em um só prato."
+    },
+    {
+        "nome": "Wild Berry Smoothie (Large)",
+        "price": 37.47,
+        "description": "Sinta o sabor da tradição em cada mordida."
+    },
+    {
+        "nome": "Wild Berry Smoothie (Medium)",
+        "price": 48.45,
+        "description": "Sabor exótico que vai te surpreender."
+    },
+    {
+        "nome": "Wild Berry Smoothie (Small)",
+        "price": 46.83,
+        "description": "Uma experiência refrescante e doce."
+    }
+]
