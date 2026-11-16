@@ -6,7 +6,7 @@ app = FastAPI()
 @app.get('/api/hello')
 def hello_world():
     '''
-    endpoint que exibe uma messagem de boas vindas
+    endpoint que exibe uma mensagem de boas vindas
     '''
     return {'Hello': 'World'}
 @app.get('/api/restaurantes/')
@@ -22,7 +22,7 @@ def get_restaurantes(restaurante: str = Query(None)):
         if restaurante is None:
             return {'Dados': dados_json}
 
-        dados_restaurante =[]
+        dados_restaurante = []
         for item in dados_json:
             if item['Company'] == restaurante:
                 dados_restaurante.append({
@@ -30,7 +30,6 @@ def get_restaurantes(restaurante: str = Query(None)):
                     'price': item['price'],
                     'description': item['description']
                 })
-            return {'Restaurante':restaurante,'Cardapio':dados_restaurante}
-        else:
-            return {'Error': f'{response.status_code} - {response.text} .'}
-
+        return {'Restaurante': restaurante, 'Cardapio': dados_restaurante}
+    else:
+        return {'Error': f'{response.status_code} - {response.text}'}
